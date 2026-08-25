@@ -1,0 +1,9 @@
+langgraph
+langchain-openai
+langchain-core
+chromadb
+fastapi
+uvicorn
+python-dotenv
+pytest
+pyyaml
